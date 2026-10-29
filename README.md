@@ -2,6 +2,8 @@
 
 基于 app.orchard.tv 的 Aerial 1.57 universal 的个人改版：把 tv-vibehack v2.5 的手机遥控移植进 Aerial。
 
+![电视界面](docs/screenshots/home.jpg)
+
 ## 功能
 
 - 手机遥控：电视在 8898 端口提供网页遥控，扫码配对；触控板单指移动指针、双指滚动、轻点点击；方向键一按一格。
